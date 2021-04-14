@@ -24,9 +24,9 @@ La resistenza R1 è indicativa poiché la corrente che il transistor Q1 deve ero
 
 <img title="" src="file:///home/gennaro/.var/app/com.github.marktext.marktext/config/marktext/images/2021-04-13-15-57-49-image.png" alt="" width="834">
 
+## La realizzazione
+
 ![](/home/gennaro/.var/app/com.github.marktext.marktext/config/marktext/images/2021-04-13-19-45-36-image.png)
-
-
 
 ## Il codice
 
