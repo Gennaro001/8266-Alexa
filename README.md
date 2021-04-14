@@ -8,11 +8,7 @@ Il progetto prevede, oltre al controllo con Alexa, anche la possibilità di cont
 
 ## Hardware usato
 
-Wemos D1 mini
-TP223 Touch
-Relé HF41F
-1N4001
-resistenza 520 ohm
+Wemos D1 mini, TP223 Touch, Relé HF41F, 1N4001, resistenza 520 ohm
 
 ## Schema elettrico
 
@@ -21,6 +17,8 @@ lo schema elettrico è presentato qui di seguito. Allo scopo di ridurre le dimen
 La resistenza R1 è indicativa poiché la corrente che il transistor Q1 deve erogare dipende dal tipo di relè scelto. In alternativa è possibile utilizzare uno shield relè che integra il gruppo R1,D1,Q1,Relay.
 ![image](https://user-images.githubusercontent.com/52027701/114725410-c1cd7c00-9d3c-11eb-96b9-7f2e85764558.png)
 
+## realizzazione
+![realizzazione](https://user-images.githubusercontent.com/52027701/114727574-9ba8db80-9d3e-11eb-9e31-9127174b1358.jpg)
 
 ## Il codice
 
