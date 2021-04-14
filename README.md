@@ -9,7 +9,7 @@ Il progetto prevede, oltre al controllo con Alexa, anche la possibilità di cont
 ## Hardware usato
 
 Wemos D1 mini
-TTP223 Touch
+TP223 Touch
 Relé HF41F
 1N4001
 resistenza 520 ohm
